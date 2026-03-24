@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=foxxw0lf&label=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaasetiyawan" alt="anggaasetiyawan" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=anggaaasetiyawanlabel=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a> 
 </p>
 
 ---
@@ -72,12 +72,12 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=foxxw0lf" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anggaaasetiyawan" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="anggaasetiyawan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="anggaasetiyawan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="anggaaasetiyawan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="anggaaasetiyawan" />
 </p>
 
 <div align="center">
