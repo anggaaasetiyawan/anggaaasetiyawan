@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anggaaasetiyawanlabel=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" />
+  <img src="https://komarev.com/ghpvc/?username=anggaaasetiyawan&label=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a> 
 </p>
 
