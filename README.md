@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Angga Setiyawan</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a> 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a>
 </p>
 
 ---
+
 ## 🎧 Spotify Recently Played
 <p align="center">
   <a href="https://open.spotify.com/">
@@ -15,58 +16,94 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills & Tech Stack
+
+### 💻 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,java,dart,flutter,python,nodejs,mysql,postman,py" />
-        <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=filament,codeigniter,livewire" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,dart,powershell" />
+  </a>
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,livewire" />
+  </a>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,filament,codeigniter" />
+  </a>
+</p>
+
+### 📱 Mobile App Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+</p>
+
+### 🤖 AI/ML & Tools
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,gemini,huggingface" />
+</p>
+
+### 🗄️ Database & Search
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,elasticsearch" />
+  </a>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,cloudflare,vercel,githubpages" />
+  </a>
+</p>
+
+### 🛠️ Software & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,cursor,figma,ps,pr,lightroom,postman,grafana,git,github,githubcopilot,microsoftcopilot" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tools
+## 💻 Environment & OS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle,vscode,vercel,githubactions" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,gemini,githubcopilot,chrome,chromedevtools,edge,firefox,androidstudio,lightroom,nvidia,wsl,terminal,virtualbox,word,excel,gitbash,githubpages" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,wsl,virtualbox,terminal,gitbash" />
   </a>
 </p>
 
 ---
 
-## 🔗 Media Used
+## 🔗 Socials & Media
 <p align="left">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,steam,linkedin,facebook,x,telegram,gmail,youtube,instagram,onedrive,reddit" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin,facebook,instagram,x,telegram,youtube,discord,steam,reddit,gmail,onedrive" />
   </a>
 </p>
 
 ---
 
-## 💻 Operating System
+## 💲 Cryptocurrency
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
-  </a>
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
+  <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" />
+  <img src="https://img.shields.io/badge/Tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
 ---
 
-## 💲 Cryptocurrency 🔝
-<p align="left">
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
-  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" alt="Binance"/>
-  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
-  <img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Dogecoin"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" alt="Solana"/>
-  <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether"/>
-  <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" alt="XRP"/>
-</p>
-
----
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -75,8 +112,8 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="anggaaasetiyawan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="anggaaasetiyawan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <div align="center">
